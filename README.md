@@ -12,6 +12,7 @@
 3. [Lan ildoak:](#3lan-ildoak)
    - 3.1 [Proiektuak:](#31-proiektuak)
    - 3.2 [Pilotuak:](#32-pilotuak)
+      - 3.2.1 [DarkTrace:](#321-darktrace)
    - 3.3 [Ikastaroak:](#33-ikastaroak)
    - 3.4 [Sortutako edukiak:](#34-sortutako-edukiak)
 4. [Harremanak eta Komunikazioa:](#4harremanak-eta-komunikazioa)
@@ -51,7 +52,7 @@ Jarraian garatzen diren puntuetan, 2022-23 ikasturtean zehar **Tknikako Ziberseg
   
   
   - ### 3.2 Pilotuak:
-    - **Darktrace:** 
+    - #### 3.2.1 **Darktrace:** 
       <img align="center" src="https://github.com/getxeberriaur/Zibersegurtasuna2022-23/assets/98767823/84362a25-320d-4592-b9c0-d0a1b1cf714e" width=20% height=20%>
     
        Aurtengo ikasturtean **Uni Eibar-Ermua** Ikastetxearekin batera, **Darktrace** izeneko tresna testeatu da saretik etor daitezken mehatxuen aurrean admien artifiziala erabiliz, eskaintzen duen babes mailaren ikerketa bat egiteko asmoarekin. Bertatik ateratako ondorioak eta pilotu honen balorazio jarraian estekatutako dokumentuan aurkitzen da.[Dokumentazio gida](docs/darktrace/DarktracePilotua.pdf)
