@@ -13,6 +13,8 @@
    - 3.1 [Proiektuak:](#31-proiektuak)
    - 3.2 [Pilotuak:](#32-pilotuak)
       - 3.2.1 [DarkTrace:](#321-darktrace)
+      - 3.2.2 [Smartfense:](#322-smartfense)
+      - 3.2.3 [Pentesting:](#323-pentesting)
    - 3.3 [Ikastaroak:](#33-ikastaroak)
    - 3.4 [Sortutako edukiak:](#34-sortutako-edukiak)
 4. [Harremanak eta Komunikazioa:](#4harremanak-eta-komunikazioa)
@@ -59,7 +61,7 @@ Jarraian garatzen diren puntuetan, 2022-23 ikasturtean zehar **Tknikako Ziberseg
 
        <a href="docs/darktrace/DarktracePilotua.pdf" class="image fit"><img align="center" src="img/darktracepdf.png" alt="" width=50% height=50%></a>
 
-    - **Smartfense:** 
+    - #### 3.2.2 **Smartfense:** 
       <img align="center" src="https://github.com/getxeberriaur/Zibersegurtasuna2022-23/assets/98767823/efc4a4b4-bbc9-4f69-b7df-fbe65bdab673" width=20% height=20%>
 
       Sareko zerbitzuak gero eta gehiago erabiltzen diren garai hauetan, lanerako malgutasuna irabaztearekin batera arriskuak ere areagotu dira hein haundi batetan. Arrazoi honengatik, beharrezkoa da erabiltzaileak sareko arriskuen inguruan kontzientziatzea.
@@ -75,7 +77,7 @@ Jarraian garatzen diren puntuetan, 2022-23 ikasturtean zehar **Tknikako Ziberseg
 
       <a href="docs/smartfense/TransferentziaegunaSmartfense.pdf" class="image fit"><img align="center" src="img/smartfense.png" alt="" width=50% height=50%></a>
 
-    - **Pentesting (Tartanga):** <img align="center" src="img/tartanga_logo.jpg" width=20% height=20%> <img align="center" src="img/jakincode.jpg" width=20% height=20%>
+    - #### 3.2.3 **Pentesting (Tartanga):** <img align="center" src="img/tartanga_logo.jpg" width=20% height=20%> <img align="center" src="img/jakincode.jpg" width=20% height=20%>
     
       **Tartanga** ikastetxearekin elkarlanean, pilotu bat martxan jarri da aurtengo ikasturtean ikastetxearen **PenTesting** froga bat egiteko. Honetan, **Txurdinaga** ikastetxeko Zibersegurtasun espezialitateko ikasle bat aritu da. [Dokumentazio gida](docs/pentesting_tartanga/PilotoPentesting.pdf)
 
