@@ -33,7 +33,8 @@
      - **Cyber Range:**
      Cyber Range azpiegiturak zibersegurtasuneko ezagutzak modu praktiko batean neurtzeko eta trebatzeko balio du. Bertan, partehartzaileak taldekatzen dira eta denbora mugatu batean gailendu beharreko erronka ezberdinak proposatzen zaizkie. Aurtengo ikasturtean landu diren erronkak IT zibersegurtasuna eta OT zibersegurtasuna uztartzen dituzte.
 
-     Cyber Rangea lau elementuz osatua dago:
+     Ondorengo irudian Cyber Rangearen egitura azaltzen da:
+    <img align="left" src="img/Cyber Range Egitura v1.1.png"> 
     
     
        - Saioak: Aurtengo ikasturtean zehar 6 Cyber Range saio izan ditugu Tknikan, 7 ikastetxe ezberdinetako ikasleak bildu dituztenak. Partehartzaileengandik jasotako feedback-a oso positiboa izan da orokorrean.
