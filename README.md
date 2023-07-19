@@ -32,12 +32,18 @@
   - ### 3.1 Proiektuak:
      - **Cyber Range:**
      Cyber Range azpiegiturak zibersegurtasuneko ezagutzak modu praktiko batean neurtzeko eta trebatzeko balio du. Bertan, partehartzaileak taldekatzen dira eta denbora mugatu batean gailendu beharreko erronka ezberdinak proposatzen zaizkie. Aurtengo ikasturtean landu diren erronkak IT zibersegurtasuna eta OT zibersegurtasuna uztartzen dituzte.
+     
+         Ondorengo irudian Cyber Rangearen egitura azaltzen da:
 
-     Ondorengo irudian Cyber Rangearen egitura azaltzen da:
-    <img align="left" src="img/Cyber Range Egitura v1.1.png"> 
-    
-    
-       - Saioak: Aurtengo ikasturtean zehar 6 Cyber Range saio izan ditugu Tknikan, 7 ikastetxe ezberdinetako ikasleak bildu dituztenak. Partehartzaileengandik jasotako feedback-a oso positiboa izan da orokorrean.
+          <img align="left" src="img/Cyber Range Egitura v1.1.png">
+         
+         Egitura osatzen duten elementuak honakoak dira:
+         1. Kudeaketa zerbitzaria: Saioak, erronkak, partehartzaileak etab. kudeadetzeaz arduratzen den zerbitzaria da. Gertakariak publikatzeaz ere arduratzen da.
+         2. MQTT brokerra: Mosquitto teknologia erabiltzen da eta kudeaketako zerbitzariak sortutako gertakariak biltzen ditu.
+         3. Bistaratze aplikazioa: MQTT brokerrean plazaratu diren gertakariak erabiliz, Cyber Range saioan gertatzen ari dena modu erakargarri batean erakustea da bere helburua.
+         4. Erronka ingurunea: Proxmox birtualizazio teknologia irekian oinarritzen da, eta erronkak gauzatzeko ingurunea (enpresa baten antza duena) definitzen da bertan.
+       
+       - Cyber Range Saioak: Aurtengo ikasturtean zehar 6 Cyber Range saio izan ditugu Tknikan, 7 ikastetxe ezberdinetako ikasleak bildu dituztenak. Partehartzaileengandik jasotako feedback-a oso positiboa izan da orokorrean.
        
            |        Zentrua        |    Data    |
            | :-------------------- | :--------- |
@@ -48,8 +54,10 @@
            | Zubiri Manteo         | 2023/03/07 |
            | SEIM                  | 2023/05/03 |
 
-        - Ikastetxeetara transferentzia: 
+        - Ikastetxeetara transferentzia: Cyber Rangerako sortu den guztia (egitura azaldu denean aipatutakoak) zentruetara iristeko nahia eta helbura daukagu. Aurten, eta froga gisa, [Andra Mari LH](https://fpandramari.eus/eu/hasiera/) zentrura egin da transferentzia. **Zuk ere interesa baduzu zure zentruan mota honetako azpiegitura bat martxan jartzeko, jarri gure alorrarekin kontaktuan**.
 
+            <img align="center" src="img/CR AndraMari.jpg" width=50% height=50%/>
+        
      - **OT Azpiegitura aurreratua:** 
 
       OT panel aurreratu bat montatu da Tknikako laborategian. Sare segmentatu batetan, gailu ezberdinak kokatu direlarik frogak egiten joateko.[Dokumentazio gida](docs/OT/Manual_panel_OT.pdf)
