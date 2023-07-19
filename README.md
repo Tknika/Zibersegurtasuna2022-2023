@@ -21,7 +21,7 @@
 5. [Author:](#author)
 ---------------------------------------------------------------------------------------------------------------------------------------------
 ## 1.Aurkezpena:<img align="center" src="img/lerroa.png">
-Jarraian garatzen diren puntuetan, 2022-23 ikasturtean zehar **Tknikako Zibersegurtasun** lantaldetik jorratu diren edukiak agertzen dira. Edukiak zerrendatzeaz gain, erabilitako fitxategi edo sorturiko materialetara iristeko estekak aurkitzen dira.
+2022-23 ikasturtean zehar **Tknikako Zibersegurtasun** lantaldean jorratu diren edukiak agertzen dira jarraian. Edukiak zerrendatzeaz gain, erabilitako fitxategi edo sorturiko materialetara iristeko estekak ere badaude. 
 
 
 
@@ -30,9 +30,24 @@ Jarraian garatzen diren puntuetan, 2022-23 ikasturtean zehar **Tknikako Ziberseg
 
 ## 3.Lan ildoak:<img align="center" src="img/lerroa.png">
   - ### 3.1 Proiektuak:
-     - **Cyber Range:** [Ibai]
-       - Saioak:
-       - Ikastetxeetara transferentzia:
+     - **Cyber Range:**
+     Cyber Range azpiegiturak zibersegurtasuneko ezagutzak modu praktiko batean neurtzeko eta trebatzeko balio du. Bertan, partehartzaileak taldekatzen dira eta denbora mugatu batean gailendu beharreko erronka ezberdinak proposatzen zaizkie. Aurtengo ikasturtean landu diren erronkak IT zibersegurtasuna eta OT zibersegurtasuna uztartzen dituzte.
+
+     Cyber Rangea lau elementuz osatua dago:
+    
+    
+       - Saioak: Aurtengo ikasturtean zehar 6 Cyber Range saio izan ditugu Tknikan, 7 ikastetxe ezberdinetako ikasleak bildu dituztenak. Partehartzaileengandik jasotako feedback-a oso positiboa izan da orokorrean.
+       
+           |        Zentrua        |    Data    |
+           | :-------------------- | :--------- |
+           | Maristak              | 2022/09/22 |
+           | Andra Mari /Laudioalde| 2023/02/02 |
+           | Easo                  | 2023/02/09 |
+           | Txurdinaga            | 2023/02/28 |
+           | Zubiri Manteo         | 2023/03/07 |
+           | SEIM                  | 2023/05/03 |
+
+        - Ikastetxeetara transferentzia: 
 
      - **OT Azpiegitura aurreratua:** 
 
