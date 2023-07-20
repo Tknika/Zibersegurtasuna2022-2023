@@ -59,7 +59,7 @@
             | Zubiri Manteo         | 2023/03/07 |
             | SEIM                  | 2023/05/03 |
 
-         - Ikastetxeetara transferentzia: Cyber Rangerako sortu den guztia (egitura azaldu denean aipatutakoak) zentruetara iristeko nahia eta helbura daukagu. Aurten, eta froga gisa, [Andra Mari LH](https://fpandramari.eus/eu/hasiera/) zentrura egin da transferentzia. **Zuk ere interesa baduzu zure zentruan mota honetako azpiegitura bat martxan jartzeko, jarri gure alorrarekin kontaktuan**.
+         - Ikastetxeetara transferentzia: Cyber Rangerako sortu den guztia (egitura azaldu denean aipatutakoak) zentruetara iristeko nahia eta helburua daukagu. Aurten, eta froga gisa, [Andra Mari LH](https://fpandramari.eus/eu/hasiera/) zentrura egin da transferentzia. **Zuk ere interesa baduzu zure zentruan mota honetako azpiegitura bat martxan jartzeko, jarri gure alorrarekin kontaktuan**.
 
             <img align="center" src="img/CR AndraMari.jpg" width=50% height=50%/>
          &nbsp;
