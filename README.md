@@ -35,7 +35,7 @@
 
        <img align="center" src="img/CR aurkezpen ekitaldia v1.1.jpg" width=50% height=50%/>
 
-     Ondorengo irudian Cyber Rangearen egitura azaltzen da:
+     Ondorengo irudian Cyber Rangearen egitura azaltzen da, eta atal bakoitzean erabilitako tresna edo teknologia:
 
        <img align="center" src="img/Cyber Range Egitura v1.1.png"/>
 
