@@ -35,37 +35,43 @@
 
        <img align="center" src="img/CR aurkezpen ekitaldia v1.1.jpg" width=50% height=50%/>
 
-Ondorengo irudian Cyber Rangearen egitura azaltzen da:
+     Ondorengo irudian Cyber Rangearen egitura azaltzen da:
 
-   <img align="center" src="img/Cyber Range Egitura v1.1.png"/>
+       <img align="center" src="img/Cyber Range Egitura v1.1.png"/>
 
-   Egitura osatzen duten elementuak honakoak dira:
-   1. Kudeaketa zerbitzaria: Saioak, erronkak, partehartzaileak etab. kudeadetzeaz arduratzen den zerbitzaria da. Gertakariak publikatzeaz ere arduratzen da.
-   2. MQTT brokerra: Mosquitto teknologia erabiltzen da eta kudeaketako zerbitzariak sortutako gertakariak biltzen ditu.
-   3. Bistaratze aplikazioa: MQTT brokerrean plazaratu diren gertakariak erabiliz, Cyber Range saioan gertatzen ari dena modu erakargarri batean erakustea da bere helburua.
-   4. Erronka ingurunea: Proxmox birtualizazio teknologia irekian oinarritzen da, eta erronkak gauzatzeko ingurunea (enpresa baten antza duena) definitzen da bertan.
+      Egitura osatzen duten elementuak honakoak dira:
+      1. Kudeaketa zerbitzaria: Saioak, erronkak, partehartzaileak etab. kudeadetzeaz arduratzen den zerbitzaria da. Gertakariak publikatzeaz ere arduratzen da.
+      2. MQTT brokerra: Mosquitto teknologia erabiltzen da eta kudeaketako zerbitzariak sortutako gertakariak biltzen ditu.
+      3. Bistaratze aplikazioa: MQTT brokerrean plazaratu diren gertakariak erabiliz, Cyber Range saioan gertatzen ari dena modu erakargarri batean erakustea da bere helburua.
+      4. Erronka ingurunea: Proxmox birtualizazio teknologia irekian oinarritzen da, eta erronkak gauzatzeko ingurunea (enpresa baten antza duena) definitzen da bertan.
+
+
 
        
-       - Cyber Range Saioak: Aurtengo ikasturtean zehar 6 Cyber Range saio izan ditugu Tknikan, 7 ikastetxe ezberdinetako ikasleak bildu dituztenak. Partehartzaileengandik jasotako feedback-a oso positiboa izan da orokorrean.
+         - Cyber Range Saioak: Aurtengo ikasturtean zehar 6 Cyber Range saio izan ditugu Tknikan, 7 ikastetxe ezberdinetako ikasleak bildu dituztenak. Partehartzaileengandik jasotako feedback-a oso positiboa izan da orokorrean.
        
-           |        Zentrua        |    Data    |
-           | :-------------------- | :--------- |
-           | Maristak              | 2022/09/22 |
-           | Andra Mari /Laudioalde| 2023/02/02 |
-           | Easo                  | 2023/02/09 |
-           | Txurdinaga            | 2023/02/28 |
-           | Zubiri Manteo         | 2023/03/07 |
-           | SEIM                  | 2023/05/03 |
+            |        Zentrua        |    Data    |
+            | :-------------------- | :--------- |
+            | Maristak              | 2022/09/22 |
+            | Andra Mari /Laudioalde| 2023/02/02 |
+            | Easo                  | 2023/02/09 |
+            | Txurdinaga            | 2023/02/28 |
+            | Zubiri Manteo         | 2023/03/07 |
+            | SEIM                  | 2023/05/03 |
 
-        - Ikastetxeetara transferentzia: Cyber Rangerako sortu den guztia (egitura azaldu denean aipatutakoak) zentruetara iristeko nahia eta helbura daukagu. Aurten, eta froga gisa, [Andra Mari LH](https://fpandramari.eus/eu/hasiera/) zentrura egin da transferentzia. **Zuk ere interesa baduzu zure zentruan mota honetako azpiegitura bat martxan jartzeko, jarri gure alorrarekin kontaktuan**.
+         - Ikastetxeetara transferentzia: Cyber Rangerako sortu den guztia (egitura azaldu denean aipatutakoak) zentruetara iristeko nahia eta helbura daukagu. Aurten, eta froga gisa, [Andra Mari LH](https://fpandramari.eus/eu/hasiera/) zentrura egin da transferentzia. **Zuk ere interesa baduzu zure zentruan mota honetako azpiegitura bat martxan jartzeko, jarri gure alorrarekin kontaktuan**.
 
             <img align="center" src="img/CR AndraMari.jpg" width=50% height=50%/>
-        
-   - **OT Azpiegitura aurreratua:** 
+         &nbsp;
+         &nbsp;   
+     - **OT Azpiegitura aurreratua:** 
 
       OT panel aurreratu bat montatu da Tknikako laborategian. Sare segmentatu batetan, gailu ezberdinak kokatu direlarik frogak egiten joateko.[Dokumentazio gida](docs/OT/Manual_panel_OT.pdf)
 
       <a href="docs/OT/Manual_panel_OT.pdf" class="image fit"><img src="img/ot_panela.png" alt="" width=50% height=50%></a>
+
+      &nbsp;
+      &nbsp;
 
      - **Zentruetako Proiektuak:** 
        - *Cyber Car:*
