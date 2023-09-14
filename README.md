@@ -131,7 +131,27 @@
        Kontuan hartuta Python-ek zibersegurtasunaren Munduan daukan arrakasta, online ikastaro hau martxan jarri da. Oso ikastaro praktikoa izan da: parte hartzaileek norbanarentzako laborategi birtual baten kontrako hacking etiko teknikak martxan jarri dituzte. 
    4 aste iraun du ikastaroak, eta horietako bakoitzean pentesting prozesu baten fase nagusiak jorratu dira: **Ezagutza (Footprinting), Zenbaketa (Fingerprintig), Ustiapena (Explotation) eta Ustiapen-ostekoa (Post-Explotation)**.  Fase horietako bakoitzean script batzuk moldatu eta exekutatu behar izan dituzte, gertatutakoa aztertuz eta enuntziatuek eskatutako soluzioak aplikazio batean sartuz [Ikastaroko Material guztia hemen](https://github.com/getxeberriaur/Zibersegurtasuna2022-23/tree/main/python%20hacking) 
 
-    - **Sare Sozialak eta Bullying-a:** [Ibai]
+    - **Sare Sozialak, mugikorrak, bullying-a, etab. irakaslearen ikuspegitik:**
+      Zibersegurtasunaren gaiarekin zeharkako lotura duen arren, interesgarria iruditu zaigu formakuntza hau antolatzea. Askotan garrantzitsua bait da zer egin daitekeen, zer ez, eta kasu bakoitzean nola jokatu behar dugun, kontu hauetan irakasle gisa.
+
+
+      Horretarako gaian aditu bat ekarri dugu, [Pablo Duchement](https://pduchement.org/), eta guztira hamar ordu inguru iraun duten hiru saiotan gai guzti hauek landu dira. Hemen dituzue hiru saioak:
+
+      **Lehen saioa**
+      
+      https://youtube.com/live/1CRUFdjLubo?feature=share
+
+
+      **Bigarren saioa**
+      
+      https://youtube.com/live/Exh9bPez3qE?feature=share
+
+
+      **Hirugarren saioa**
+
+      https://youtube.com/live/wl-cExXQ5JQ?feature=share
+
+
     - **OT Bideoformakuntza:**  [Ibai]
   
   - ### 3.4 Sortutako edukiak:
