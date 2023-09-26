@@ -68,8 +68,8 @@
 
       OT panel aurreratu bat montatu da Tknikako laborategian. Sare segmentatu batetan, gailu ezberdinak kokatu direlarik frogak egiten joateko.[Dokumentazio gida](docs/OT/Manual_panel_OT.pdf)
 
-      <a href="docs/OT/Manual_panel_OT.pdf" class="image fit"><img src="img/ot_panela.png" alt="" width=50% height=50%><img align="center" src="img/OT panela2.jpg" alt="" width=50% height=50%></a>
-
+      <a href="docs/OT/Manual_panel_OT.pdf" class="image fit"><img src="img/ot_panela.png" alt="" width=50% height=50%></a>
+      <a> <img align="center" src="img/OT panela2.jpg" alt="" width=50% height=50%></a>
       &nbsp;
       &nbsp;
 
