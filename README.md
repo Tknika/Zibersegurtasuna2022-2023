@@ -174,7 +174,17 @@ Eraso mota hau, Windows azpiegituretan gehienetako bat errepikatzen den eraso mo
    - **Diario Vasco erreportaia:**
      Otsailean **Diario Vasco** egunkarian publikatutako erreportaiaren esteka. [Erreportaia](komunikazioa/dv/dv_26.02.23.pdf)
      
-   - **Advanced Factories 2023 Mahai-Ingurua:** [Ibai]
+   - **Advanced Factories 2023 Mahai-Ingurua:**
+     Ibai Peña 2023ko Apirilaren 19an Bartzelonan egin zen [Advanced Factories](https://www.advancedfactories.com/) kongresura gonbidatu zuten BCSC eta Mosos de Escuadrako ordezkariekin batera “publiko - pribatu elkarlana zibersegurtasunean” gaia landu zuen mahai inguru batera. Bertan Tknika zer den, nola lan egiten den, eta publiko - pribatu erlazioa nola ulertu eta gauzatzen den azaldu zuen.
+
+     Honi buruzko aipamenak prentsan:
+
+     [https://www.conectaindustria.es](https://www.conectaindustria.es/articulo/innovacion/inversion-ciberseguridad-sector-industrial-aumentara-34-2023/20230301131229009776.html)
+
+
+     [https://worldnationnews.com](https://worldnationnews.com/investment-in-cybersecurity-in-the-industry-will-increase-by-34-by-2023/)
+
+
    - **Caso de éxito ClearPass Don Bosco:**
      Don Bosco ikastetxeak, Sarenetekin batera inplantatu duen **Clear Pass** esperientzian parte hartu du Tknikak ere. Jarraian dagoen **bideoan** informazio gehiago.
    
