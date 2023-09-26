@@ -177,6 +177,8 @@ Eraso mota hau, Windows azpiegituretan gehienetako bat errepikatzen den eraso mo
    - **Advanced Factories 2023 Mahai-Ingurua:**
      Ibai Peña 2023ko Apirilaren 19an Bartzelonan egin zen [Advanced Factories](https://www.advancedfactories.com/) kongresura gonbidatu zuten BCSC eta Mosos de Escuadrako ordezkariekin batera “publiko - pribatu elkarlana zibersegurtasunean” gaia landu zuen mahai inguru batera. Bertan Tknika zer den, nola lan egiten den, eta publiko - pribatu erlazioa nola ulertu eta gauzatzen den azaldu zuen.
 
+<img align="center" src="img/Advanced Factories 2023.jpg" width=50% height=50%>
+
      Honi buruzko aipamenak prentsan:
 
      [https://www.conectaindustria.es](https://www.conectaindustria.es/articulo/innovacion/inversion-ciberseguridad-sector-industrial-aumentara-34-2023/20230301131229009776.html)
