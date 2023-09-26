@@ -68,7 +68,7 @@
 
       OT panel aurreratu bat montatu da Tknikako laborategian. Sare segmentatu batetan, gailu ezberdinak kokatu direlarik frogak egiten joateko.[Dokumentazio gida](docs/OT/Manual_panel_OT.pdf)
 
-      <a href="docs/OT/Manual_panel_OT.pdf" class="image fit"><img src="img/ot_panela.png" alt="" width=50% height=50%></a>
+      <a href="docs/OT/Manual_panel_OT.pdf" class="image fit"><img src="img/ot_panela.png" alt="" width=50% height=50%><img align="center" src="img/OT panela2.jpg" alt="" width=50% height=50%></a>
 
       &nbsp;
       &nbsp;
@@ -83,7 +83,7 @@
          Ikastetxeetarako OT erronka berriak diseinatu dira. Cyber Range saioak egiteko laborategiak prestatzearekin batera Galdakaoko Andra Mari, Barakaldo eta Txorierriko ikastetxeekin batera. Prozesu honen garapena azaltzen duen aurkezpena:
          [Aurkezpena](docs/OT/OT_Cyberrange_Aurkezpena.pdf)
 
-         <a href="docs/OT/OT_Cyberrange_Aurkezpena.pdf" class="image fit"><img align="center" src="img/cr_ot.png" alt="" width=50% height=50%><img align="center" src="img/OT panela2.jpg" alt="" width=50% height=50%></a>
+         <a href="docs/OT/OT_Cyberrange_Aurkezpena.pdf" class="image fit"><img align="center" src="img/cr_ot.png" alt="" width=50% height=50%></a>
   
   
   - ### 3.2 Pilotuak:
