@@ -125,7 +125,13 @@
       **Martxoak 14 eta 23** bitartean, 40 irakaslek parte hartu zuten *"OT Zibersegurtasunaren Oinarriak"* ikastaroan. 20 ordutako iraupena izan zuen ikastaro honetan, **OT munduko zibersegurtasunera** hurbilketa burutu nahi izan zen.
       Horretarako aurkezpen teorikoak eta kasu praktikoak tartekatuko ziren. Kurtso amaieran aurkezpenak, kasu praktikoen gida eta alor hauetan sakontzeko material gehigarria banatuko zen. [Material guztia hemen](https://github.com/getxeberriaur/Zibersegurtasuna2022-23/tree/main/OT(SCI)Oinarriak) *Azalpenak Euskaraz, Euskarriak Gaztelaniaz.*
 
-    - **Nozomi:** [Ibai]
+    - **Nozomi:**
+   
+      
+      OT eta OiT inguruneetan, kokalekuaren araberako sarearen ikuskatze eta aktiboen inbentario sakona egiten duen tresna da nozomi guardian. Mota bereko garapen ezberdinen artean hoberenen artean dago, eta horregatik tresna probatu nahi zen.
+      Horretarako Nozomi enpresarekin harremanetan jarri eta barne formakuntza bat jaso zen Tknikan. Lanketaren ondorioz Nozomi etxearekin harremana estutu zen eta beraien produktuak formakuntzarako lortzeko aukera bermatu da.
+
+
     - **Python Hacking-erako:** <img align="center" src="img/phyton.png" width=20% height=20%>
     
        Kontuan hartuta Python-ek zibersegurtasunaren Munduan daukan arrakasta, online ikastaro hau martxan jarri da. Oso ikastaro praktikoa izan da: parte hartzaileek norbanarentzako laborategi birtual baten kontrako hacking etiko teknikak martxan jarri dituzte. 
