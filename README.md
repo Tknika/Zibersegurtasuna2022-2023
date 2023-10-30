@@ -245,7 +245,14 @@ Jarraian dago, egun horretan buruturiko aurkezpenen bideoa:
 
    <a href="https://www.youtube.com/watch?v=bk5YuVu1D7o&t=0s"> <img align="center" src="img/t_eguna.jpg" width=50% height=50%> </a>
        
-   - **Cybasque:** [Ibai]
+   - **Cybasque:**
+     Euskadiko zibersegurtasun-industriak ordezkatzen dituen elkartea da [Cybasque](https://www.cybasque.eus/eu_ES/home-cybasque). Enpresengadik gertu egoteko beharrari erantzuteko ezinbestekoa da horrelako elkarteetan partehartzea, eta honetan oinarrituz beraien *Talentua* lan taldeko bileretan partehartu da.
+
+     **Kurtso amaieran elkartekide egiteko eskaria bideratu da.**
+
+
+
+   
    - **TKNIKA berriak:**
      2022-23 ikasturtean [Tknika.eus](https://tknika.eus/) webgunean, Zibersegurtasun alorrean eginiko ekimenen estekak.
      - [Cyber Range: Durango Maristak](https://tknika.eus/eu/cont/cyber-range-maristak-durangoko-ikasleen-saioa/)
