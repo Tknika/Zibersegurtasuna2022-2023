@@ -245,10 +245,11 @@ Jarraian dago, egun horretan buruturiko aurkezpenen bideoa:
 
    <a href="https://www.youtube.com/watch?v=bk5YuVu1D7o&t=0s"> <img align="center" src="img/t_eguna.jpg" width=50% height=50%> </a>
        
-   - **Cybasque:**
-     Euskadiko zibersegurtasun-industriak ordezkatzen dituen elkartea da [Cybasque](https://www.cybasque.eus/eu_ES/home-cybasque). Enpresengadik gertu egoteko beharrari erantzuteko ezinbestekoa da horrelako elkarteetan partehartzea, eta honetan oinarrituz beraien *Talentua* lan taldeko bileretan partehartu da.
-
-     **Kurtso amaieran elkartekide egiteko eskaria bideratu da.**
+   - **Cybasque:** <img align="center" src="img/Cybasque.png" width=20% height=20%>
+   
+   Euskadiko zibersegurtasun-industriak ordezkatzen dituen elkartea da [Cybasque](https://www.cybasque.eus/eu_ES/home-cybasque). Enpresengadik gertu egoteko beharrari erantzuteko ezinbestekoa da horrelako elkarteetan partehartzea, eta honetan oinarrituz beraien *Talentua* lan taldeko bileretan partehartu da.
+   
+   **Kurtso amaieran elkartekide egiteko eskaria bideratu da.**
 
 
 
@@ -261,6 +262,6 @@ Jarraian dago, egun horretan buruturiko aurkezpenen bideoa:
 
 
 
-## Author:<img align="center" src="img/lerroa.png">
+<img align="center" src="img/lerroa.png">
 
 
