@@ -125,13 +125,30 @@
       **Martxoak 14 eta 23** bitartean, 40 irakaslek parte hartu zuten *"OT Zibersegurtasunaren Oinarriak"* ikastaroan. 20 ordutako iraupena izan zuen ikastaro honetan, **OT munduko zibersegurtasunera** hurbilketa burutu nahi izan zen.
       Horretarako aurkezpen teorikoak eta kasu praktikoak tartekatuko ziren. Kurtso amaieran aurkezpenak, kasu praktikoen gida eta alor hauetan sakontzeko material gehigarria banatuko zen. [Material guztia hemen](https://github.com/getxeberriaur/Zibersegurtasuna2022-23/tree/main/OT(SCI)Oinarriak) *Azalpenak Euskaraz, Euskarriak Gaztelaniaz.*
 
-    - **Nozomi:** 
+    - **Nozomi Guardian softwarearen proba eta trebakuntza:** 
    
       
       OT eta OiT inguruneetan, kokalekuaren araberako sarearen ikuskatze eta aktiboen inbentario sakona egiten duen tresna da nozomi guardian. Mota bereko garapen ezberdinen artean hoberenen artean dago, eta horregatik tresna probatu nahi zen.
       Horretarako Nozomi enpresarekin harremanetan jarri eta barne formakuntza bat jaso zen Tknikan. Lanketaren ondorioz Nozomi etxearekin harremana estutu zen eta beraien produktuak formakuntzarako lortzeko aukera bermatu da.
       
       <img align="center" src="img/Nozomi Guardian.png" width=100% height=100%>
+
+      
+
+    - **OT Bideoformakuntza:**
+      Edorta Echaveren “_Curso Online de Ciberseguridad Industrial v2.0_” bideoformakuntzara sarrera eman genien zibersegurtasun espezializazioko 8 irakasleri.
+
+      https://enredandoconredes.classonlive.com/curso-completo/Curso-Avanzado-de-Ciberseguridad-Industrial-v20-001
+
+      Bideoformakuntzan oinarrituz, gure kolaboratzaile Paulino Insaustik ondorengo unitate didaktikoa prestatu zuen. “[Seguridad nativa PLC](docs/OT/Bideoformakuntza/Seguridad_nativaPLC)”. 
+
+      Ondoren bideoformakuntza jaso zuten bi irakasleen iritzia:
+   
+      "_Kurtsoa oso erlazionatua dago ematen ditugun edukiekin eta bereziki '5028 Sistemas de control industrial seguros' moduloarekin. Ondo estrukturatua dago, edukia ere ondo garatua dago, bideoak ondo eraikitakoak eta teknikoki landuak daude. Orokorrean oso interesgarria eta erabilgarria_"
+
+      "_Asko ikasi dugu bai teoria, test eta jasotako praktikekin. Guk klaseak emateko daukagun laborategia hobeto ulertzeko balio izan digu eta horren ondorioz eduki gehiago eta interesgarriagoak gehitu ditugu klasean ematen ditugun azalpenetan. Formazioan egindako testak eta praktikak klasean inplementatzea da gure helburu nagusia aurten_"
+
+      
 
 
     - **Python Hacking-erako:** <img align="center" src="img/phyton.png" width=20% height=20%>
@@ -160,7 +177,9 @@
       https://youtube.com/live/wl-cExXQ5JQ?feature=share
 
 
-    - **OT Bideoformakuntza:**  [Ibai]
+
+
+
   
   - ### 3.4 Sortutako edukiak:
     - **SMB Relay erasoa:**
@@ -172,7 +191,17 @@ Eraso mota hau, Windows azpiegituretan gehienetako bat errepikatzen den eraso mo
 
 
 ## 4.Harremanak eta Komunikazioa:<img align="center" src="img/lerroa.png">
-   - **ZELT Lantaldea:**  [Ibai]
+   - **ZELT Lantaldea:**
+     2021/2022 kurtsoan Tknikaren ekimenez sortutako taldea da Zibersegurtasun Espezializazioko Lan Taldea (ZELT). Espezializazio hau lantzen duten zentru eta irakasleen ezagutza, saretzea eta trebakuntza du helburu, eta ekintza espezifikoak lantzen dira kurtsoan zehar.
+
+     Kurtso honetan egindako ekintza espezifikoak honakoak izan ziren:
+     + Zentru bakoitzak espezializazioa nola irakasten duen partekatu.
+     + Espezializazioko gai bakoitza ematen duten irakasleen zerrenda sortu, harremanak errazteko asmoz.
+     + Aipatutako OT Bideoformakuntza jasotzeko aukera luzatu.
+     + Cyber Range saioetan partehartzeko aukera luzatu.
+     + Formakuntza behar espezifikoak aztertu.
+     + Hacking etikoa eta Auzitegi Analisia irakasteko moduen azterketa, gabeziak aztertu eta hurrengo kurtsoetan kanpo laguntza bitartez ikasgai hauen edukien kalitatea hobetzeko asmoz.
+
    - **Teknopolis saioa:**  
 
    Maiatza bukaeran, EITBko Teknopolis saioaren grabaketa burutu zen. Tknikan bertan grabaturiko atalari, Andra Mari ikastetxean OT espezialitateko atalak gehitu zitzaizkion. Saioa Ekainak 15ean emititu zen.
