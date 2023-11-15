@@ -18,7 +18,6 @@
    - 3.3 [Ikastaroak:](#33-ikastaroak)
    - 3.4 [Sortutako edukiak:](#34-sortutako-edukiak)
 4. [Harremanak eta Komunikazioa:](#4harremanak-eta-komunikazioa)
-5. [Author:](#author)
 ---------------------------------------------------------------------------------------------------------------------------------------------
 ## 1.Aurkezpena:<img align="center" src="img/lerroa.png">
 2022-23 ikasturtean zehar **Tknikako Zibersegurtasun** lantaldean jorratu diren edukiak agertzen dira jarraian. Edukiak zerrendatzeaz gain, erabilitako fitxategi edo sorturiko materialetara iristeko estekak ere badaude. 
